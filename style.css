@@ -1,0 +1,17 @@
+html{
+	scroll-behavior: smooth;
+}
+section{
+	width: 100%;
+	height: auto;
+}
+.gotopbtn{
+	position: fixed;
+
+	bottom: 25px;
+	right: 55px;
+	text-decoration: none;
+	text-align: center;
+	line-height: 40px;
+	font-size: 45px;
+}
